@@ -11,21 +11,22 @@ import Signup from '../Layout/Home Components/Signup';
 import Footer from '../Layout/Home Components/Footer';
 
 
+
 const Home = () => {
- 
+
 
   return (
     <>
-   <Navbar />
-    <Intro />
-    <MoreAboutUs/>
-    <ChooseUs />
-    <OurVision />
-    <OurFeatures />
-    <LauchpadLists />
-    <CryptoExchange />
-    <Signup />
-    <Footer />
+     <Navbar />
+   <Intro />
+  <MoreAboutUs/>
+  <ChooseUs />
+  <OurVision />
+  <OurFeatures />
+  <LauchpadLists />
+  <CryptoExchange />
+  <Signup />
+  <Footer />
     </>
   )
 }
