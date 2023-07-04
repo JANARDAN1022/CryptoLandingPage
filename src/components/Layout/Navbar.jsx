@@ -1,7 +1,6 @@
 import React,  {useState } from 'react';
 import Logo from '../../Assets/Logo.png';
 import {Link} from 'react-router-dom';
-//import '../Layout/Home Components/Mediaqueries/Navbar.css';
 
 const Navbar = () => {
     const [Active,setActive]=useState('Home');
